@@ -10,16 +10,12 @@ Nmrpflash:
 https://github.com/jclehner/nmrpflash/releases/tag/v0.9.14
 
 Npcap:
-
 https://nmap.org/npcap/
 
 Old official firmware:
-
 https://www.downloads.netgear.com/files/GDC/R7000/R7000-V1.0.3.56_1.1.25.zip
 
 ------
-
-
 
 ## Installation:
 
